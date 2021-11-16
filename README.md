@@ -5,7 +5,7 @@
 
 # moviewatchapp
 
-Created a movielist using React, implementing React Hooks, Context API and storing data locally in localStorage. Used  🖥
+Created a movielist using React, implementing React Hooks, Context API and storing data locally in localStorage. 🖥 I used IMDb-API site for external movie api, but if you want, you can use any movie external api service such as The Movie DB.
 
 ## **Project Setup**
 
