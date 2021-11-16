@@ -1,5 +1,4 @@
 [![Heroku - View on Heroku](https://img.shields.io/badge/Heroku-View_on_Heroku-red?logo=Heroku&logoColor=white)](https://moviewatchapp.herokuapp.com/)
-![NPM](https://badgen.net/npm/v/express)
 
 
 
