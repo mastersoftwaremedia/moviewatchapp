@@ -11,10 +11,6 @@ Created a movielist using React, implementing React Hooks, Context API and stori
 
 ### client
 
-```
-npm start
-```
-
 **Add Credentials**
 
 Make sure to use Git Bash if you use windows to create a .env file at the root directory of your application to hide all your sensitive information
@@ -28,7 +24,11 @@ Add following variables to .env file:
 REACT_APP_API_KEY=
 ```
 
-If you want to use
+After adding the .env file at the root directory, run the following command to open the project on localhost://3000
+
+```
+npm start
+```
 
 If you have any questions about the project, feel free to email me @ fortestingpurpose06@gmail.com
 
