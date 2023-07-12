@@ -29,5 +29,5 @@ After adding the .env file at the root directory, run the following command to o
 npm start
 ```
 
-If you have any questions about the project, feel free to email me @ fortestingpurpose06@gmail.com
+If you have any questions about the project, feel free to email me @ codingdevpin@gmail.com
 
